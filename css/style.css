@@ -110,47 +110,47 @@ footer p {
 }
 
 /* Test */
-main {
-    background: gold;
-}
+/*main {*/
+/*    background: gold;*/
+/*}*/
 
 
-header nav {
-    background: darkgreen;
-}
+/*header nav {*/
+/*    background: darkgreen;*/
+/*}*/
 
-header nav ul {
-    background: chocolate;
-}
+/*header nav ul {*/
+/*    background: chocolate;*/
+/*}*/
 
-main > div:nth-child(1) {
-    background: aqua;
-}
+/*main > div:nth-child(1) {*/
+/*    background: aqua;*/
+/*}*/
 
-main h2 {
-    background: blueviolet;
-}
+/*main h2 {*/
+/*    background: blueviolet;*/
+/*}*/
 
-.content h2 + p {
-    background: coral;
-}
+/*.content h2 + p {*/
+/*    background: coral;*/
+/*}*/
 
-.content p + p {
-    background: brown;
-}
+/*.content p + p {*/
+/*    background: brown;*/
+/*}*/
 
-main div:nth-child(2) {
-    background: orange;
-}
+/*main div:nth-child(2) {*/
+/*    background: orange;*/
+/*}*/
 
-main div:nth-child(3) {
-    background: blue;
-}
+/*main div:nth-child(3) {*/
+/*    background: blue;*/
+/*}*/
 
-footer {
-    background: red;
-}
+/*footer {*/
+/*    background: red;*/
+/*}*/
 
-footer p {
-    background: silver;
-}
+/*footer p {*/
+/*    background: silver;*/
+/*}*/
