@@ -1,0 +1,36 @@
+.header_section {
+    width: 1260px;
+    padding-left: 98px;
+    margin-top: 63px;
+    margin-bottom: 38px;
+}
+
+.header {
+    font-size: 80px;
+    line-height: 94px;
+
+    /*font-family:;*/
+    font-style: normal;
+
+
+    /*background-color: aqua;*/
+}
+
+.color_text {
+    color: aqua;
+}
+
+.header_items {
+    display: flex;
+    height: 72px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+
+
+    background-color: #35444F;
+}
+
+.item1 .item2 .item3 .item4 {
+    padding-top: 26px;
+    padding-bottom: 19px;
+}
