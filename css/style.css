@@ -256,7 +256,7 @@ body {
 }
 
 .banner_clients_title {
-    font-family: Open Sans sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 32px;
@@ -282,6 +282,12 @@ body {
     border: none;
 }
 
+.logo_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .banner_logo {
     display: flex;
     justify-content: center;
@@ -290,23 +296,30 @@ body {
 .logo {
     margin-top: 105px;
     margin-right: 58px;
+
+    /*background-color: green;*/
 }
 
 .logo1 {
 
     height: 28px;
+
+    /*background-color: blue;*/
 }
 
 .logo2 {
 
     height: 49px;
+    /*background-color: pink;*/
 }
 
 .logo3 {
     height: 51px;
+    /*background-color: blueviolet;*/
 }
 
 .logo4 {
-    height: 52px
+    height: 52px;
+    /*background-color: gold;*/
 }
 
